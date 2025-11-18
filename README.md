@@ -24,8 +24,9 @@ Some advice to someone who wants to compete:
 4. Have fun and embrace mistakes -  I didn't do as I good as wanted to, but for my first time, I am happy with the score I acheived.  Even if you think that you're gonna do bad, try it anyway.  Your mistakes will only able to be learned from.
 
    So with that, I am looking forward to not only compete again, but to begin my journey into the wonderful field of cybersecurity as a whole!
-   
 
-   Individual Game Final Score: 1750 Points
-   #######################################
+    Individual Game Final Score: 1750 Points
+
+
+
    Team Game Final Score: 1225 Points
