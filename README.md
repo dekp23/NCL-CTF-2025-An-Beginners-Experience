@@ -6,13 +6,13 @@ I competed in both the Individual Game and the Team Game of the National Cyber L
 
 
 Throughout this entire experience, I learned an immense amount of knowledge about a wide range of topics and used a wide variety of tools and concepts including but not limited to:
-- Network Scanning & Structure (Nmap, port scanning) – My strongest category.
-- Traffic Analysis (Wireshark) – Learned how to dissect packets and spot anomalies.
-- Forensics (File carving, Binwalk) – My toughest area, but I learned a lot.
+- Network Scanning & Structure ([Nmap]([url](https://nmap.org/download)), port scanning) – My strongest category.
+- Traffic Analysis ([Wireshark]([url](https://www.wireshark.org/download.html))) – Learned how to dissect packets and spot anomalies.
+- Forensics (File carving, [Binwalk]([url](https://github.com/ReFirmLabs/binwalk))) – My toughest area, but I learned a lot.
 - Log Analysis – Practiced parsing logs and identifying patterns.
 - OSINT (Open Source Intelligence, metadata) – Used creative search techniques and metadata sleuthing.
-- Password Cracking (John the Ripper, Hashcat) – Cracked hashes using wordlists and brute force.
-- Cryptography (CyberChef, dCode) – Explored encoding, decoding, and cipher identification.
+- Password Cracking ([John the Ripper]([url](https://www.openwall.com/john/)), [Hashcat]([url](https://hashcat.net/hashcat/))) – Cracked hashes using wordlists and brute force.
+- Cryptography ([CyberChef]([url](https://cyberchef.org/)), [dCode]([url](https://www.dcode.fr/cipher-identifier))) – Explored encoding, decoding, and cipher identification.
 - Web App Exploitation (SQL injections, browser dev tools) – Practiced basic injection techniques and site analysis.
 
 
